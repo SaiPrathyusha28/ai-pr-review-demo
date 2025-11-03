@@ -1,3 +1,3 @@
 def main():
-     printf("it's main call")
+     printf("it's main call");
 
